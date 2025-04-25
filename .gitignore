@@ -1,0 +1,9 @@
+# Ignore system + temporary files
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+
+# Ignore model checkpoints or logs (if added later)
+*.h5
+*.log
+*.pkl
